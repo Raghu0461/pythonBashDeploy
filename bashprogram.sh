@@ -5,3 +5,5 @@ for ANIMAL in $ANIMALS
     echo $ANIMAL
 done
 
+echo "This is bash script file"
+echo "this is practice purpose"
